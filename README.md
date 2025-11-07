@@ -1,12 +1,5 @@
 # AI-Text-Summarizer
 
-## Working Application
-#### Desktop Version
-<img alt="desktop" src="./public/images/output/desktop.png" >  
-
-#### Mobile Version
-<img alt="desktop" src="./public/images/output/mobile.png" >
-
 ## How to run locally?
 1. Clone the repo
 2. Open this folder in the code editor of your choice.
@@ -27,5 +20,3 @@ You should see *Server running at http://localhost:3000/* as outpout
 3. Hugging Face Inference API
 4. Postman
 
-
-#### Feel free to drop any suggestions and try it out yourself.
